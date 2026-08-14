@@ -56,7 +56,8 @@ prices = load_price_csv("data/your_data.csv")
 in place of `generate_synthetic_futures_series()` in `backtester.py`.
 
 ## Sample output
-![Equity curve](sample_output/equity_curve.png)
+<img width="1290" height="930" alt="image" src="https://github.com/user-attachments/assets/fbc11405-4ba2-4c69-be19-17df2dace63c" />
+
 
 ## Sample output (synthetic demo series)
 ```
