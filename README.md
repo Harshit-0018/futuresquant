@@ -78,4 +78,4 @@ risk metrics), not this specific parameter set.
 - Add position sizing via volatility targeting (e.g. scale size inversely
   to realized vol) instead of fixed +1/-1 exposure.
 - Backtest across multiple correlated futures (e.g. full soybean complex:
-  soybean, soybean meal, soybean oil) to study crush-margin spread trades.
+  soybean, soybean meal, soybean oil) to study crush-margin spread trades..
